@@ -3,7 +3,7 @@
   <a href="https://xxx">Multi-Grained Guided Diffusion for Quantity-Controlled Remote Sensing Object Generation</a>
 </h1>
 
-**[Zhiping Yu](https://scholar.google.com.tw/citations?user=qgldqJAAAAAJ&hl=en),[Chenyang Liu](https://chen-yang-liu.github.io/), Chuyu Zhong, [Zhengxia Zou](https://scholar.google.com.hk/citations?hl=en&user=DzwoyZsAAAAJ), and [Zhenwei Shi*✉](https://scholar.google.com.hk/citations?hl=en&user=kNhFWQIAAAAJ)**
+**[Zhiping Yu](https://scholar.google.com.tw/citations?user=qgldqJAAAAAJ&hl=en), [Chenyang Liu](https://chen-yang-liu.github.io/), Chuyu Zhong, [Zhengxia Zou](https://scholar.google.com.hk/citations?hl=en&user=DzwoyZsAAAAJ), and [Zhenwei Shi*✉](https://scholar.google.com.hk/citations?hl=en&user=kNhFWQIAAAAJ)**
 
 </div>
 
