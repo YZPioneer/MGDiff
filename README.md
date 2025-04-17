@@ -15,10 +15,6 @@
 ## Latest Updates
 - 2025-04-18: The test set of the Levir-QCG dataset is **available**.
 
-## Table of Contents
-- [Multi-Grained Guided Diffusion Model](#Multi-Grained Guided Diffusion Model)
-- [Levir-QCG Dataset](#Levir-QCG Dataset)
-
 ## Multi-Grained Guided Diffusion Model
 - In this paper, we explore a novel task, quantity-controlled remote sensing object generation, and propose a novel model, **Multi-Grained Guided Diffusion** (MGDiff). The MGDiff imposes constraints not only on latent space noise prediction, but also on high-level semantic features of object instances at both global counting and spatial distribution granularities, establishing training guidance across three distinct grained levels. 
 <br>
