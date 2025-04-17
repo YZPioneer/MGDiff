@@ -24,7 +24,7 @@ In this paper, we explore a novel task, quantity-controlled remote sensing objec
 <br>
 
 <div align="center">
-  <img src="images/framework.png" width="900"/>
+  <img src="images/framework.jpg" width="900"/>
 </div>
 
 <br>
@@ -38,7 +38,7 @@ The Levir-QCG dataset contains remote sensing images annotated with precise inst
   <img src="images/dataset_overall.jpg" width="650"/>
 </div>
 <div align="center">
-  <img src="images/dataset_distribution.png" width="850"/>
+  <img src="images/dataset_distribution.jpg" width="850"/>
 </div>
 
 The test set is available now. It can be downloaded by [Baidu Drive](https://pan.baidu.com/s/1Esteen3FSvDoFCXwi5-A6Q). Extraction code: k6fy
