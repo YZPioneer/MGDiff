@@ -43,7 +43,7 @@ We will provide the download link for the entire dataset as soon as the paper ha
 
 ## License
 
-This repo is distributed under [MIT License](https://github.com/Chen-Yang-Liu/Change-Agent/blob/main/LICENSE.txt). The code can be used for academic purposes only.
+This repo is distributed under [MIT License](https://github.com/YZPioneer/MGDiff/blob/main/LICENSE). The code can be used for academic purposes only.
 
 [//]: # (## Contact Us)
 
